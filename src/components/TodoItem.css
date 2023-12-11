@@ -1,0 +1,14 @@
+ li {
+     opacity: 0;
+ }
+
+ li.motion-enter-active {
+     opacity: 1;
+     transition: opacity 500ms, transform 500ms;
+ }
+
+ li.motion-exit-active {
+     opacity: 0;
+     transform: translateX(-20px);
+     transition: opacity 500ms, transform 500ms;
+ }

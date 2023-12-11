@@ -1,0 +1,98 @@
+ .todo-app-container {
+     max-width: 600px;
+     margin: 0 auto;
+     padding: 20px;
+ }
+
+ .todo-header {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     margin-bottom: 20px;
+ }
+
+ .todo-header h1 {
+     margin: 0;
+ }
+
+ .todo-item-status {
+     margin-left: 10px;
+     font-weight: bold;
+ }
+
+ .filter-container {
+     display: flex;
+     align-items: center;
+     margin-top: 10px;
+ }
+
+ label {
+     margin-right: 10px;
+ }
+
+ select {
+     padding: 8px;
+     border: 1px solid #ddd;
+     border-radius: 4px;
+     outline: none;
+     cursor: pointer;
+ }
+
+ button {
+     padding: 8px;
+     margin-right: 10px;
+     cursor: pointer;
+ }
+
+ ul {
+     list-style-type: none;
+     padding: 0;
+ }
+
+ li {
+     margin-bottom: 8px;
+     padding: 8px;
+     border: 1px solid #ddd;
+     border-radius: 4px;
+     display: flex;
+     justify-content: space-between;
+ }
+
+ /* TodoList.css */
+ .todo-item {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 10px;
+     margin: 5px 0;
+     border: 1px solid #ccc;
+     background-color: #f9f9f9;
+ }
+
+ .complete {
+     text-decoration: line-through;
+     color: #888;
+ }
+
+ .todo-item span {
+     flex-grow: 1;
+     cursor: pointer;
+ }
+
+ .icon-button {
+     background: none;
+     border: none;
+     cursor: pointer;
+     font-size: 18px;
+     color: #888;
+     margin-left: 10px;
+ }
+
+ .icon-button:hover {
+     color: #333;
+ }
+
+
+ .required {
+     border: 2px solid red;
+ }
