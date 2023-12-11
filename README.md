@@ -1,15 +1,24 @@
-# React To-Do List App
+# Todo App with React, Redux, and Framer Motion
 
-A simple To-Do List application built using React.js.
-
-## Overview
-
-This React To-Do List App allows users to add tasks, mark them as completed, and remove them. It provides a straightforward interface for managing your tasks.
-
+Welcome to the Todo App! This simple application allows you to manage your todos with features like adding, deleting, toggling, and editing todos. The app is built using React.js, state management is handled with Redux, and Framer Motion is used for simple animations.
 
 ## Features
 
-- Add tasks to the to-do list.
-- Mark tasks as completed.
-- Remove tasks from the list.
+- Create, edit, and delete todos.
+- Toggle the completion status of todos.
+- Filter todos based on their completion status.
 
+## Technologies Used
+
+- React.js
+- Redux
+- Framer Motion
+
+## Getting Started
+
+To run the Todo App locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/todo-app.git
