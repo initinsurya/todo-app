@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/initinsurya.github.io/todo-app/static/css/main.2c448764.css",
-    "main.js": "/initinsurya.github.io/todo-app/static/js/main.3fd880eb.js",
-    "index.html": "/initinsurya.github.io/todo-app/index.html",
-    "main.2c448764.css.map": "/initinsurya.github.io/todo-app/static/css/main.2c448764.css.map",
-    "main.3fd880eb.js.map": "/initinsurya.github.io/todo-app/static/js/main.3fd880eb.js.map"
+    "main.css": "/todo-app/static/css/main.2c448764.css",
+    "main.js": "/todo-app/static/js/main.3fd880eb.js",
+    "index.html": "/todo-app/index.html",
+    "main.2c448764.css.map": "/todo-app/static/css/main.2c448764.css.map",
+    "main.3fd880eb.js.map": "/todo-app/static/js/main.3fd880eb.js.map"
   },
   "entrypoints": [
     "static/css/main.2c448764.css",
